@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-01T21:37:26+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Hi, I am Akash.</title><subtitle>Cloud Engineer</subtitle><entry><title type="html">How I Passed the AWS Certified Solutions Architect Associate Exam on my First Try</title><link href="http://localhost:4000/blog/how-i-passed-the-aws-certified-solutions-architect-associate-exam-on-my-first-try" rel="alternate" type="text/html" title="How I Passed the AWS Certified Solutions Architect Associate Exam on my First Try" /><published>2021-12-01T00:00:00+05:30</published><updated>2021-12-01T00:00:00+05:30</updated><id>http://localhost:4000/blog/how-i-passed-the-aws-certified-solutions-architect-associate-exam-on-my-first-try</id><content type="html" xml:base="http://localhost:4000/blog/how-i-passed-the-aws-certified-solutions-architect-associate-exam-on-my-first-try">&lt;h2 id=&quot;intro&quot;&gt;Intro&lt;/h2&gt;
+&lt;p&gt;This is my AWS certified solutions architect associate exam experience. I passed AWS Certified Solutions Architect - Associate (SAA-C02) exam on 12th December 2020. Many people were asking about my experience and tips to clear the exam so thought of writing this blog. I will share my complete experience, tips, and resources that I used to pass this exam and achieve this certification.&lt;/p&gt;
+
+&lt;p&gt;More details about this certification:&lt;a href=&quot;http://&quot;&gt; https://aws.amazon.com/certification/certified-solutions-architect-associate/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So, to begin, I started and got introduced to the AWS console with ACloudGuru’s course on Udemy and few YouTube Videos. ACloudGuru’s course was pretty basic and is good for beginners and to get introduced to AWS quickly. This course alone is not at all enough to pass the exam.&lt;/p&gt;
+
+&lt;h3 id=&quot;course-and-official-documentation&quot;&gt;Course and official documentation&lt;/h3&gt;
+&lt;p&gt;As I was not feeling well prepared for the exam even after taking this course, I wanted an in-depth course and after some research, I found Stephane Maarek’s course. I would recommend this course to everyone as it is in-depth and wholesome which covers all the required topics and has a lot of hands-on labs. Along with this course, I also referred to the official AWS documentation.&lt;/p&gt;
+
+&lt;h3 id=&quot;practice-tests-and-cheat-sheets&quot;&gt;Practice tests and cheat sheets&lt;/h3&gt;
+&lt;p&gt;After completing this course, I took Jon Bonso’s practice tests which are also available on Udemy. This will give you an idea of the questions that you can expect and prepare you for the exam and to complete the exam in time. Time management is important for this exam. You don’t want to spend much time on a single question. The questions would take some time to understand and could be overwhelming. So we need to better manage our time for this test. Try to score above 80 percent in this practice tests before giving the exam. And for the last-minute preparation and revision, you can refer to Jon Bonso’s cheat sheets before the exam.&lt;/p&gt;
+
+&lt;h3 id=&quot;hands-on-experience&quot;&gt;Hands-on experience&lt;/h3&gt;
+&lt;p&gt;Most importantly you need to have practical knowledge and hands-on experience on the services and get comfortable with AWS console and CLI. I had worked on AWS services and hands-on experience of 1 year before I gave this exam. I suggest having a hands-on experience of at least 6 months before taking the exam.&lt;/p&gt;
+
+&lt;h3 id=&quot;scheduling-the-exam&quot;&gt;Scheduling the exam&lt;/h3&gt;
+&lt;p&gt;The exam cost me $150 + taxes (around INR 12000). You can schedule the exam after setting a deadline for yourself so that you complete your preparation on time. You can take the exam at a center or home (online proctored). The exam can be scheduled here: &lt;a href=&quot;http://&quot;&gt;https://www.aws.training/certification&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I hope this blog helps everyone who is looking to take AWS Certified Solutions Architect - Associate exam. You can also contact me if you require any help or training.&lt;/p&gt;
+
+&lt;h3 id=&quot;recommended-resources&quot;&gt;Recommended resources:&lt;/h3&gt;
+&lt;p&gt;AWS official documentation, tutorials, and projects:&lt;a href=&quot;http://&quot;&gt; https://docs.aws.amazon.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Stephane Maarek’s course: &lt;a href=&quot;http://&quot;&gt;https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c02/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jon Bonso’s practice tests:&lt;a href=&quot;http://&quot;&gt; https://www.udemy.com/course/aws-certified-solutions-architect-associate-amazon-practice-exams-saa-c02/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Jon Bonso’s cheet sheets: &lt;a href=&quot;http://&quot;&gt;https://tutorialsdojo.com/links-to-all-aws-cheat-sheets/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Free course on youtube from FreeCodeCamp: &lt;a href=&quot;http://&quot;&gt;https://www.youtube.com/watch?v=Ia-UEYYR44s&amp;amp;t=18s&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="" /><summary type="html">Intro This is my AWS certified solutions architect associate exam experience. I passed AWS Certified Solutions Architect - Associate (SAA-C02) exam on 12th December 2020. Many people were asking about my experience and tips to clear the exam so thought of writing this blog. I will share my complete experience, tips, and resources that I used to pass this exam and achieve this certification.</summary></entry></feed>

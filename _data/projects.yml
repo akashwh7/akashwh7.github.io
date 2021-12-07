@@ -1,0 +1,24 @@
+- name: Backups to cloud using Rclone utility
+  image: /assets/images/blog-post-images/rlcone-backups.jpg
+  link: https://github.com/akashwh7/rclone-backups
+  description: Backups from on-prem to cloud using Rclone utility
+  
+- name: Shell script to take MySQL database backups
+  link: https://github.com/akashwh7/mysql-database-backups-script
+  image: /assets/images/blog-post-images/mysql-database-backups.jpg
+  description: Simple script to take regular database backups
+  
+- name: CICD pipeline using GitHub Actions - GKE, JFrog, Github 
+  link: https://github.com/akashwh7/2048
+  image: /assets/images/blog-post-images/cicd-pipeline.png
+  description: CICD with Github actions workflow, GKE cluster, Jfrog Artifactory to store container images, Github code repo
+
+- name: IaaC using Terraform
+  link: https://github.com/akashwh7/terraform-aws-infra
+  image: /assets/images/blog-post-images/terraform-project.webp
+  description: IaaC using Terraform to deploy EC2, security groups, etc on AWS
+  
+- name: Ex-founder of WindHigh
+  link: https://windhigh.com
+  image: 
+  description: Ex-founder of WindHigh, worked and learned a lot

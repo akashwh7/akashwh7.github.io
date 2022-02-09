@@ -8,8 +8,8 @@
   image: /assets/images/blog-post-images/mysql-database-backups.jpg
   description: Simple script to take regular database backups
   
-- name: CICD pipeline using GitHub Actions - GKE, JFrog, Github 
-  link: https://github.com/akashwh7/2048
+- name: CICD pipeline using GitHub Actions - k8s/GKE, JFrog, Github, Kustomize 
+  link: https://github.com/akashwh7/kube-poc
   image: /assets/images/blog-post-images/cicd-pipeline.png
   description: CICD with Github actions workflow, GKE cluster, Jfrog Artifactory to store container images, Github code repo
 
